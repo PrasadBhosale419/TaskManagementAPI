@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\bin\Debug\net8.0\TaskManagement.Service.deps.json
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\bin\Debug\net8.0\TaskManagement.Service.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\bin\Debug\net8.0\TaskManagement.Service.pdb
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\bin\Debug\net8.0\TaskManagement.Repository.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\bin\Debug\net8.0\TaskManagement.Repository.pdb
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskMana.2D938F65.Up2Date
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\refint\TaskManagement.Service.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\TaskManagement.Service.pdb
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskManagement.Service\obj\Debug\net8.0\ref\TaskManagement.Service.dll

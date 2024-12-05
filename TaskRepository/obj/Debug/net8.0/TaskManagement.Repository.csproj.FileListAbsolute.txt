@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\bin\Debug\net8.0\TaskManagement.Repository.deps.json
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\bin\Debug\net8.0\TaskManagement.Repository.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\bin\Debug\net8.0\TaskManagement.Repository.pdb
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\refint\TaskManagement.Repository.dll
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\TaskManagement.Repository.pdb
+C:\Users\HP\OneDrive\Documents\DotnetTask\TaskRepository\obj\Debug\net8.0\ref\TaskManagement.Repository.dll
